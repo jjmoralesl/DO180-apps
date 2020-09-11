@@ -1,3 +1,4 @@
 <?php
-print "Buen 18, cuidado con el bicharraco " . PHP_VERSION . "\n";
+print "Jorge Morales" . PHP_VERSION . "\n";
+print "A change is in the air \n";
 ?>
